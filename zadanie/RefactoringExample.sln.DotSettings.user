@@ -1,0 +1,15 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=f27751e3_002Da9d4_002D431f_002D8b2a_002D4b1d0984483e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UserAdd_Should_Return_True_When_Everything_OK" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::B7E97EC2-7770-4DF5-AC82-34FEC73404E0::net8.0::LegacyAppTests.AddUserTest.UserAdd_Should_Return_True_When_Everything_OK&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B7E97EC2-7770-4DF5-AC82-34FEC73404E0::net8.0::LegacyAppTests.AddUserTest.UserAdd_Should_Return_True_When_Missing_FirstName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B7E97EC2-7770-4DF5-AC82-34FEC73404E0::net8.0::LegacyAppTests.AddUserTest.UserAdd_Should_Return_True_When_Missing_LastName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B7E97EC2-7770-4DF5-AC82-34FEC73404E0::net8.0::LegacyAppTests.AddUserTest.UserAdd_Should_Return_True_When_Age_Too_Low&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B7E97EC2-7770-4DF5-AC82-34FEC73404E0::net8.0::LegacyAppTests.AddUserTest.UserAdd_Should_Return_True_When_Wrong_Email&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B7E97EC2-7770-4DF5-AC82-34FEC73404E0::net8.0::LegacyAppTests.AddUserTest.UserAdd_Should_Return_True_When_All_Correct&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B7E97EC2-7770-4DF5-AC82-34FEC73404E0::net8.0::LegacyAppTests.AddUserTest.UserAdd_Should_Return_False_When_Missing_FirstName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B7E97EC2-7770-4DF5-AC82-34FEC73404E0::net8.0::LegacyAppTests.AddUserTest.UserAdd_Should_Return_False_When_Missing_LastName&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B7E97EC2-7770-4DF5-AC82-34FEC73404E0::net8.0::LegacyAppTests.AddUserTest.UserAdd_Should_Return_False_When_Wrong_Email&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::B7E97EC2-7770-4DF5-AC82-34FEC73404E0::net8.0::LegacyAppTests.AddUserTest.UserAdd_Should_Return_False_When_Age_Too_Low&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
