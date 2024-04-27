@@ -32,3 +32,9 @@ C:\moje\GITuwa\APBD_cwiczenia\APBD_cw3\cw3\cw3\obj\Debug\net8.0\refint\cw3.dll
 C:\moje\GITuwa\APBD_cwiczenia\APBD_cw3\cw3\cw3\obj\Debug\net8.0\cw3.pdb
 C:\moje\GITuwa\APBD_cwiczenia\APBD_cw3\cw3\cw3\obj\Debug\net8.0\cw3.genruntimeconfig.cache
 C:\moje\GITuwa\APBD_cwiczenia\APBD_cw3\cw3\cw3\obj\Debug\net8.0\ref\cw3.dll
+C:\moje\GITuwa\APBD_cwiczenia\APBD_cw3\cw3\cw3\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\moje\GITuwa\APBD_cwiczenia\APBD_cw3\cw3\cw3\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\moje\GITuwa\APBD_cwiczenia\APBD_cw3\cw3\cw3\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\moje\GITuwa\APBD_cwiczenia\APBD_cw3\cw3\cw3\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\moje\GITuwa\APBD_cwiczenia\APBD_cw3\cw3\cw3\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\moje\GITuwa\APBD_cwiczenia\APBD_cw3\cw3\cw3\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
